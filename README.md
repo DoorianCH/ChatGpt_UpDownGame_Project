@@ -4,11 +4,11 @@
 This game is a Python program that realizes the number that is hidden in the bottle cap.
 
 - directions
--[Vscod터미널] -> python3 up_down_game.py
+[Vscod터미널] -> python3 up_down_game.py
 
--Using ChatGPT 
--Vscode
--Python 
+Using ChatGPT 
+Vscode
+Python 
 
 
 
@@ -17,6 +17,6 @@ This game is a Python program that realizes the number that is hidden in the bot
 - 사용법
 -[Vscod터미널] -> python3 up_down_game.py
 
--ChatGPT 활용
--Vscode 사용
--파이썬 언어 사용
+ChatGPT 활용
+Vscode 사용
+파이썬 언어 사용
